@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E1B4B,100:4C1D95&height=200&section=header&text=Lothika%20K&fontSize=46&fontColor=F8FAFC&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Learner&descAlignY=62&descSize=17&descColor=22D3EE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:8B5CF6&height=200&section=header&text=Lothika%20K&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Builder&descAlignY=58&descSize=17&descColor=F8FAFC&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=AF8FE9&center=true&vCenter=true&width=650&lines=AI+%2B+Data+Science;shipping+AI+automations+that+actually+work;currently%3A+DevOps+Intern+%40+PrimeVector+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%2B+Data+Science;shipping+AI+automations+that+actually+work;currently%3A+DevOps+Intern+%40+PrimeVector+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/lothi-07"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor==white"/></a>
-<a href="https://www.linkedin.com/in/lothika-k-01a984355"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
-<a href="mailto:lothika6649@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/></a>
+<a href="https://github.com/lothi-07"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lothika-k-01a984355"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:lothika6649@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=lothi-07&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS"/>
 
@@ -18,12 +18,14 @@
 
 ## 🧑‍💻 who am i
 
+> not a resume — just the raw JSON version of me
+
 ```json
 {
   "name": "Lothika K",
   "role": ["Full Stack Developer", "AI Automation Builder"],
   "degree": "B.E — AI & Data Science, Anna University '28",
-  "currently": "DevOps Intern @ Nidvex Technology",
+  "currently": "DevOps Intern @ Prime Vector",
   "status": "shipping something, always 🚀",
   "vibe": "build → deploy → repeat",
   "fun_fact": "my commits don't lie, but my sleep schedule does 🌙"
@@ -64,6 +66,8 @@
 
 ## 🚀 stuff i've built
 
+> receipts, not just talk
+
 | Project | What it does | Stack | Link |
 |---|---|---|---|
 | **CodeMentor AI** | Push code → AI reviews it → feedback lands on Telegram instantly | n8n · Groq Llama API · GitHub Webhooks | — |
@@ -76,19 +80,24 @@
 
 ## 💼 what i bring to the table
 
+> less fluff, more function
+
 ```
-⚡  Idea → deployed product, not just a demo
-🔧  Full ownership: frontend + backend + deployment
-🤖  AI-powered automations that run without me watching
-🚀  Ship fast — days, not weeks
-📚  Docs written after it works, always 😄
+☕ Coffee-powered debugging sessions  
+💡 Curiosity that refuses to stay quiet  
+📈 Projects that teach more than tutorials  
+🚀 Ship fast — days, not weeks
+😄 And yes... I eventually fix the bugs I create.
 ```
 
 <br/>
 
 ## 📊 github stats
 
+> numbers that don't lie (mostly)
+
 <div align="center">
+
 
 
 <img src="https://streak-stats.demolab.com?user=lothi-07&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border_radius=12"/>
@@ -98,6 +107,8 @@
 <br/>
 
 ## 📈 activity graph
+
+> proof i actually show up
 
 <div align="center">
 
@@ -109,23 +120,41 @@
 
 ## 🎯 2026 goals
 
+> the roadmap, self-imposed deadlines included
+
 - [x] 🚀 Ship end-to-end products with real, live deployments
 - [x] 🤖 Build AI-powered automation pipelines
-- [x] 🛠️ Get hands-on with DevOps — CI/CD, deployment pipelines
+- [ ] 🛠️ Get hands-on with DevOps — CI/CD, deployment pipelines
 - [ ] 💼 Land a great internship / full-time role
 - [ ] ⭐ Hit 50+ GitHub stars across repos
 - [ ] 🌍 Ship a product with real users outside college
 
 <br/>
 
+## 🧃 Just Dev Things 
+
+> every developer has "one of those" moments.
+
 <div align="center">
+
+```
+Me: "Just a tiny change."
+
+Git:
+127 files changed
+
+Me:
+"Interesting..."
+```
+
+<br/>
 
 ## 💬 let's connect
 
 open to **internships**, **freelance gigs** & **collabs** — if you're building something cool, let's talk 👇
 
-<a href="https://www.linkedin.com/in/lothika-k-01a984355"><img src="https://img.shields.io/badge/CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:lothika6649@gmail.com"><img src="https://img.shields.io/badge/DROP%20A%20MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE"/></a>
+<a href="https://www.linkedin.com/in/lothika-k-01a984355"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:lothika6649@gmail.com"><img src="https://img.shields.io/badge/DROP%20A%20MAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -133,6 +162,6 @@ open to **internships**, **freelance gigs** & **collabs** — if you're building
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=100:0D1117,50:1E1B4B,0:4C1D95&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:F97316,0:8B5CF6&height=100&section=footer" width="100%"/>
 
 </div>
