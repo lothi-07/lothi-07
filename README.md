@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E1B4B,100:4C1D95&height=200&section=header&text=Lothika%20K&fontSize=46&fontColor=F8FAFC&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Builder&descAlignY=62&descSize=17&descColor=22D3EE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E1B4B,100:4C1D95&height=200&section=header&text=Lothika%20K&fontSize=46&fontColor=F8FAFC&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Learner&descAlignY=62&descSize=17&descColor=22D3EE" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%2B+Data+Science+%40+Anna+University;shipping+AI+automations+that+actually+work;FastAPI+%2B+React+%2B+n8n+is+my+love+language;currently%3A+DevOps+Intern+%40+Nidvex+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=AF8FE9&center=true&vCenter=true&width=650&lines=AI+%2B+Data+Science;shipping+AI+automations+that+actually+work;currently%3A+DevOps+Intern+%40+PrimeVector+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/lothi-07"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6"/></a>
-<a href="https://www.linkedin.com/in/lothika-k-01a984355"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
+<a href="https://github.com/lothi-07"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor==white"/></a>
+<a href="https://www.linkedin.com/in/lothika-k-01a984355"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
 <a href="mailto:lothika6649@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=lothi-07&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS"/>
@@ -90,8 +90,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lothi-07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=F8FAFC&border_radius=12&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lothi-07&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8FAFC&border_radius=12&cache_seconds=86400"/>
 
 <img src="https://streak-stats.demolab.com?user=lothi-07&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border_radius=12"/>
 
@@ -135,6 +133,6 @@ open to **internships**, **freelance gigs** & **collabs** — if you're building
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=100:0D1117,50:1E1B4B,0:4C1D95&height=100&section=footer" width="100%"/>
 
 </div>
