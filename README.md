@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1530,100:8B5CF6&height=200&section=header&text=Lothika%20K&fontSize=46&fontColor=F8FAFC&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Builder&descAlignY=62&descSize=17&descColor=22D3EE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E1B4B,100:4C1D95&height=200&section=header&text=Lothika%20K&fontSize=46&fontColor=F8FAFC&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Builder&descAlignY=62&descSize=17&descColor=22D3EE" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%2B+Data+Science+%40+Anna+University;shipping+AI+automations+that+actually+work;FastAPI+%2B+React+%2B+n8n+is+my+love+language;currently%3A+DevOps+Intern+%40+Nidvex+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -36,25 +36,29 @@
 
 > not a checklist — this is what actually ships my projects
 
+<div align="center">
+
 **⚡ Frontend**
 
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 **🧠 Backend**
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=F8FAFC"/> <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 **🗄️ Database & Cloud**
 
-<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 **🚀 DevOps & Tools**
 
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F8FAFC"/> <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=F8FAFC"/> <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
 **🤖 AI / Data Science**
 
-<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/Groq%20API-0D1117?style=for-the-badge&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white"/>
+
+</div>
 
 <br/>
 
@@ -86,8 +90,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lothi-07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=F8FAFC&border_radius=12"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lothi-07&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8FAFC&border_radius=12"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lothi-07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=F8FAFC&border_radius=12&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lothi-07&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8FAFC&border_radius=12&cache_seconds=86400"/>
 
 <img src="https://streak-stats.demolab.com?user=lothi-07&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&border_radius=12"/>
 
