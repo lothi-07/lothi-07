@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1530,100:8B5CF6&height=200&section=header&text=Lothika%20K&fontSize=46&fontColor=F8FAFC&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Builder&descAlignY=62&descSize=17&descColor=22D3EE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1530,100:8B5CF6&height=200&section=header&text=Lothika%20K&fontSize=46&fontColor=F8FAFC&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Builder&descAlignY=62&descSize=17&descColor=22D3EE" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+%40+Anna+University;shipping+AI+automations+that+actually+work;FastAPI+%2B+React+%2B+n8n+is+my+love+language;currently%3A+DevOps+Intern+%40+Nidvex+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%2B+Data+Science+%40+Anna+University;shipping+AI+automations+that+actually+work;FastAPI+%2B+React+%2B+n8n+is+my+love+language;currently%3A+DevOps+Intern+%40+Nidvex+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
   "name": "Lothika K",
   "role": ["Full Stack Developer", "AI Automation Builder"],
   "degree": "B.E — AI & Data Science, Anna University '28",
-  "currently": "DevOps Intern @ Prime Vector Technology",
+  "currently": "DevOps Intern @ Nidvex Technology",
   "status": "shipping something, always 🚀",
   "vibe": "build → deploy → repeat",
   "fun_fact": "my commits don't lie, but my sleep schedule does 🌙"
