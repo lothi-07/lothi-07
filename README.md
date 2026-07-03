@@ -131,23 +131,7 @@
 
 <br/>
 
-## 🧃 Just Dev Things 
-
-> every developer has "one of those" moments.
-
 <div align="center">
-
-```
-Me: "Just a tiny change."
-
-Git:
-127 files changed
-
-Me:
-"Interesting..."
-```
-
-<br/>
 
 ## 💬 let's connect
 
