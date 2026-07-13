@@ -24,7 +24,7 @@
 {
   "name": "Lothika K",
   "role": ["Full Stack Developer", "AI Automation Builder"],
-  "degree": "B.E — AI & Data Science, Anna University '28",
+  "degree": "B.Tech — AI & Data Science, Anna University",
   "currently": "DevOps Intern @ Prime Vector",
   "status": "shipping something, always 🚀",
   "vibe": "build → deploy → repeat",
@@ -58,7 +58,7 @@
 
 **🤖 AI / Data Science**
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI%20-F55036?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -73,8 +73,7 @@
 | **CodeMentor AI** | Push code → AI reviews it → feedback lands on Telegram instantly | n8n · Groq Llama API · GitHub Webhooks | — |
 | **Instagram Prompt Automation** | Full stack system to auto-generate & manage IG prompts | FastAPI · SQLite · React · Vite | [Live](https://insta-prompt-automation.vercel.app) |
 | **Grievance Hub** | Online complaint management system, live & deployed | FastAPI · React | [Live](https://grievance-hub.onrender.com) |
-| **Claude Pulse** |A local-first Chrome extension for tracking Claude.ai session/weekly usage and per-chat token consumption.
- | HTML · CSS · JSON | [Code](https://github.com/lothi-07/Claude-pulse) |
+| **Claude Pulse** |A local Chrome extension for tracking Claude.ai session/weekly usage | HTML · CSS · JSON | [Code](https://github.com/lothi-07/Claude-pulse) |
 | **Voteflow** | Voting/polling system | JavaScript | [Code](https://github.com/lothi-07/voteflow) |
 
 <br/>
