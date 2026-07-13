@@ -73,7 +73,8 @@
 | **CodeMentor AI** | Push code → AI reviews it → feedback lands on Telegram instantly | n8n · Groq Llama API · GitHub Webhooks | — |
 | **Instagram Prompt Automation** | Full stack system to auto-generate & manage IG prompts | FastAPI · SQLite · React · Vite | [Live](https://insta-prompt-automation.vercel.app) |
 | **Grievance Hub** | Online complaint management system, live & deployed | FastAPI · React | [Live](https://grievance-hub.onrender.com) |
-| **Royal Feast** | Restaurant website — portfolio project | HTML · CSS | [Code](https://github.com/lothi-07/Royal-Feast) |
+| **Claude Pulse** |A local-first Chrome extension for tracking Claude.ai session/weekly usage and per-chat token consumption.
+ | HTML · CSS · JSON | [Code](https://github.com/lothi-07/Claude-pulse) |
 | **Voteflow** | Voting/polling system | JavaScript | [Code](https://github.com/lothi-07/voteflow) |
 
 <br/>
