@@ -28,7 +28,7 @@
   "currently": "DevOps Intern @ Prime Vector",
   "status": "shipping something, always 🚀",
   "vibe": "build → deploy → repeat",
-  "fun_fact": "bro my code was working till I looked at it 🙌"
+  "fun_fact": "bro my code was working till I looked at it 🧩"
 }
 ```
 
