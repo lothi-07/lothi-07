@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:8B5CF6&height=200&section=header&text=Lothika%20K&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Builder&descAlignY=58&descSize=17&descColor=F8FAFC&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%2B+Data+Science;shipping+AI+automations+that+actually+work;currently%3A+DevOps+Intern+%40+PrimeVector+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%2B+Data+Science;shipping+AI+automations+that+actually+work" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,6 @@
   "name": "Lothika K",
   "role": ["Full Stack Developer", "AI Automation Builder"],
   "degree": "B.Tech — AI & Data Science, Anna University",
-  "currently": "DevOps Intern @ Prime Vector",
   "status": "shipping something, always 🚀",
   "vibe": "build → deploy → repeat",
   "fun_fact": "bro my code was working till I looked at it 🧩"
@@ -86,7 +85,6 @@
 ☕ Coffee-powered debugging sessions  
 💡 Curiosity that refuses to stay quiet  
 📈 Projects that teach more than tutorials  
-🚀 Ship fast — days, not weeks
 😄 And yes... I eventually fix the bugs I create.
 ```
 
